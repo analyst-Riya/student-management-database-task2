@@ -5,7 +5,7 @@ In this task, I extended the existing Student Management Database by adding new 
 
 ## 📘 Task Overview
 - Added *Courses* and *Enrollments* tables.  
-- Established relationships between *Students, **Courses, and **Enrollments*.  
+- Established relationships between *Students*, *Courses*, and *Enrollments*.  
 - Performed *JOIN* and *Aggregation* queries to analyze student data.
 
 ## 🧩 Features
