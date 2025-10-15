@@ -1,6 +1,6 @@
 # Student Management Database – Task 2
 
-This project is part of my internship at @Main Crafts Technology.  
+This project is part of my internship at Main Crafts Technology.  
 In this task, I extended the existing Student Management Database by adding new tables and performing advanced SQL operations.
 
 ## 📘 Task Overview
