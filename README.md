@@ -24,8 +24,8 @@ In this task, I extended the existing Student Management Database by adding new 
 3. Run the script to create the database.
 
 ## Technologies
-• SQL
-• MySQL
+- SQL
+- MySQL
 
 ## Author
 👩‍💻Riya Kumar - Data Analytics Enthusiast
